@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>图片</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-11-Pro备份" transform="translate(-209.000000, -384.000000)">
+            <g id="编组-2" transform="translate(16.000000, 336.000000)">
+                <g id="编组备份" transform="translate(177.000000, 32.000000)">
+                    <g id="图片" transform="translate(16.000000, 16.000000)">
+                        <rect id="矩形" x="0" y="0" width="32" height="32"></rect>
+                        <g id="tupian" transform="translate(0.000000, 4.000000)" fill-rule="nonzero">
+                            <path d="M32,0 L32,24 L0,24 L0,0 L32,0 Z M28,4 L4,4 L4,20 L28,20 L28,4 L28,4 Z" id="形状" fill="#FBBF45"></path>
+                            <g id="编组-4" transform="translate(2.500000, 5.000000)">
+                                <polygon id="路径" fill="#FBBF45" points="9.22671353 0 14.8363631 7.04273 16.9696562 3.99 28 19 22.7730668 19 17.0563489 11.22064 15.0591498 14.07938 10.1022902 7.8565 4.69082272 19 0 19"></polygon>
+                                <path d="M6.62932825,15 L4.69082272,19 L0,19 L1.93850554,15 L6.62932825,15 Z M25.060542,15 L28,19 L22.7730668,19 L19.8335918,15 L25.060542,15 Z" id="形状" fill="#FDAC1C"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
